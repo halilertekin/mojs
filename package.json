@@ -61,7 +61,7 @@
     "gulp-stylus": "latest",
     "gulp-uglify": "latest",
     "gulp-watch": "*",
-    "karma": "^0.12.24",
+    "karma": "^6.4.4",
     "karma-browserify": "^2.0.0",
     "karma-chrome-launcher": "^0.1.4",
     "karma-clear-screen-reporter": "0.0.1",
